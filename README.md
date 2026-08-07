@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kharodeaniket/DSA/tree/master/0075-sort-colors) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kharodeaniket/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kharodeaniket/DSA/tree/master/0075-sort-colors) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kharodeaniket/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kharodeaniket/DSA/tree/master/0002-add-two-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kharodeaniket/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
