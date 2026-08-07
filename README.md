@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Kharodeaniket/DSA/tree/master/0075-sort-colors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kharodeaniket/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Kharodeaniket/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kharodeaniket/DSA/tree/master/0075-sort-colors) |
 | [0392-is-subsequence](https://github.com/Kharodeaniket/DSA/tree/master/0392-is-subsequence) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Kharodeaniket/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kharodeaniket/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Kharodeaniket/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
