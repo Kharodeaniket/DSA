@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kharodeaniket/DSA/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Kharodeaniket/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Kharodeaniket/DSA/tree/master/0392-is-subsequence) |
 | [1089-duplicate-zeros](https://github.com/Kharodeaniket/DSA/tree/master/1089-duplicate-zeros) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kharodeaniket/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Kharodeaniket/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Kharodeaniket/DSA/tree/master/0392-is-subsequence) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kharodeaniket/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Dynamic Programming
