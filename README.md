@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Kharodeaniket/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Kharodeaniket/DSA/tree/master/0392-is-subsequence) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kharodeaniket/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1903-largest-odd-number-in-string](https://github.com/Kharodeaniket/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kharodeaniket/DSA/tree/master/0002-add-two-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/Kharodeaniket/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kharodeaniket/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Kharodeaniket/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
