@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kharodeaniket/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Kharodeaniket/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Kharodeaniket/DSA/tree/master/0169-majority-element) |
 | [1089-duplicate-zeros](https://github.com/Kharodeaniket/DSA/tree/master/1089-duplicate-zeros) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kharodeaniket/DSA/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Kharodeaniket/DSA/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kharodeaniket/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Kharodeaniket/DSA/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
