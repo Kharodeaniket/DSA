@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kharodeaniket/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Kharodeaniket/DSA/tree/master/0169-majority-element) |
 | [1089-duplicate-zeros](https://github.com/Kharodeaniket/DSA/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kharodeaniket/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kharodeaniket/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kharodeaniket/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Kharodeaniket/DSA/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kharodeaniket/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quicksort
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Kharodeaniket/DSA/tree/master/0169-majority-element) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kharodeaniket/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Greedy
 |  |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kharodeaniket/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Kharodeaniket/DSA/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Kharodeaniket/DSA/tree/master/1486-xor-operation-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kharodeaniket/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kharodeaniket/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
