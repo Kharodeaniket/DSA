@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kharodeaniket/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1903-largest-odd-number-in-string](https://github.com/Kharodeaniket/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2129-capitalize-the-title](https://github.com/Kharodeaniket/DSA/tree/master/2129-capitalize-the-title) |
+| [3136-valid-word](https://github.com/Kharodeaniket/DSA/tree/master/3136-valid-word) |
 ## Dynamic Programming
 |  |
 | ------- |
