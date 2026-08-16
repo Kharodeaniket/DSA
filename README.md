@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kharodeaniket/DSA/tree/master/0002-add-two-numbers) |
+| [1486-xor-operation-in-an-array](https://github.com/Kharodeaniket/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Kharodeaniket/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kharodeaniket/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Kharodeaniket/DSA/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
