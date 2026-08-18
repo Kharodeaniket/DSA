@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Kharodeaniket/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Kharodeaniket/DSA/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Kharodeaniket/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kharodeaniket/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kharodeaniket/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quicksort
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Kharodeaniket/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/Kharodeaniket/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Kharodeaniket/DSA/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/Kharodeaniket/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Kharodeaniket/DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Kharodeaniket/DSA/tree/master/0709-to-lower-case) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kharodeaniket/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Kharodeaniket/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kharodeaniket/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kharodeaniket/DSA/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Kharodeaniket/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kharodeaniket/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Greedy
 |  |
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kharodeaniket/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Kharodeaniket/DSA/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Kharodeaniket/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kharodeaniket/DSA/tree/master/0169-majority-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Kharodeaniket/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
