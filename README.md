@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kharodeaniket/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Kharodeaniket/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kharodeaniket/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Kharodeaniket/DSA/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Kharodeaniket/DSA/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kharodeaniket/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kharodeaniket/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Kharodeaniket/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Kharodeaniket/DSA/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Kharodeaniket/DSA/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/Kharodeaniket/DSA/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Kharodeaniket/DSA/tree/master/1089-duplicate-zeros) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kharodeaniket/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kharodeaniket/DSA/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Kharodeaniket/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kharodeaniket/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Kharodeaniket/DSA/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kharodeaniket/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quicksort
 |  |
