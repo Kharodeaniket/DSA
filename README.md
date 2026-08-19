@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kharodeaniket/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Kharodeaniket/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Kharodeaniket/DSA/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Kharodeaniket/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kharodeaniket/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1089-duplicate-zeros](https://github.com/Kharodeaniket/DSA/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kharodeaniket/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kharodeaniket/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Kharodeaniket/DSA/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Kharodeaniket/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/Kharodeaniket/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Kharodeaniket/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Kharodeaniket/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
