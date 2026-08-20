@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Kharodeaniket/DSA/tree/master/1089-duplicate-zeros) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kharodeaniket/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kharodeaniket/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1550-three-consecutive-odds](https://github.com/Kharodeaniket/DSA/tree/master/1550-three-consecutive-odds) |
 | [1748-sum-of-unique-elements](https://github.com/Kharodeaniket/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kharodeaniket/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
